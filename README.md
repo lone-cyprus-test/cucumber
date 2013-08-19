@@ -1,5 +1,7 @@
 [![Build Status](https://secure.travis-ci.org/cucumber/cucumber.png)](http://travis-ci.org/cucumber/cucumber) [![Code Climate](https://codeclimate.com/github/cucumber/cucumber.png)](https://codeclimate.com/github/cucumber/cucumber)
 
+Test
+
 # Cucumber
 
 Cucumber is a tool for running automated tests written in plain language. Because they're
